@@ -1,0 +1,4 @@
+com\pension\calculator\Application.class
+com\pension\calculator\interestcalculator\MonthlyPaymentInterestCalculator.class
+com\pension\calculator\amount\AmountFromPaymentController.class
+com\pension\calculator\interestcalculator\CompoundInterestCalculator.class
